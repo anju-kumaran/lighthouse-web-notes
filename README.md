@@ -3,4 +3,4 @@
 ###### This is an H6 header (smallest)
 ## Summary 
 
-This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [https://github.com/anju-kumaran] for the https://www.lighthouselabs.ca/ Web Development Bootcamp.
